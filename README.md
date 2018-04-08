@@ -1,4 +1,4 @@
-# SHECalculator
+# bug-晓丽（手机上无法计算结果）SHECalculator
 我的第一个微信小程序
 
 
